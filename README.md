@@ -20,7 +20,7 @@ Welcome to the Real-Time Weather Dashboard, a web application built with React.j
 - Enjoy real-time updates of weather conditions!
 
 ## Screenshots
-<img width="1438" alt="actual screenshot" src="https://github.com/GuptaRishi0070/Weather-Dashboard/assets/108511606/313306f0-a157-4266-b405-d1426cf93f67">
+![image](https://github.com/GuptaRishi0070/Weather_Dashboard_React/assets/108511606/cb520b29-b1a0-452c-bf1f-aac4ad96825b)
 
 
 ## Credits
