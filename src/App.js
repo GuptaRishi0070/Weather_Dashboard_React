@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
       <div className="logo" style={{ marginTop: "-10px" }}>
-        <h1>Welcome to Your Real-Time Weather Dashboard</h1>
+        <h1>Welcome To Your Real-Time Weather Dashboard</h1>
       </div>
 
       <div className="container">
